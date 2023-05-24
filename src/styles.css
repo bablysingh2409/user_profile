@@ -1,0 +1,38 @@
+/* Write code for your CSS here */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* .App{
+    display: flex;
+    flex-direction: column;
+   justify-content: space-between;
+} */
+
+/* .userDetails{
+text-align: center;
+} */
+
+.userDetails p{
+    font-size: 1.3em;
+    padding: 10px;
+}
+
+.user-skills{
+    display: flex;
+    /* justify-content: space-evenly; */
+    /* padding: 20px; */
+}
+.skill{
+  padding: 15px;
+  margin: 1em;
+  font-size: 1.3em;
+  background-color: aqua;
+  border-radius: 5px;
+}
+
+.about p{
+    font-size: 1.3em;
+    padding: 5px;
+}
